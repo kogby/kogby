@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6684fa0d1fed2580f15170c2?variant=dark)](https://roadmap.sh)
 <!--
 **kogby/kogby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
