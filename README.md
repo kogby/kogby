@@ -3,12 +3,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kogby/count.svg?"  />
 </div>
-
+<!--
 ###
 
 <img src="https://raw.githubusercontent.com/kogby/kogby/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
 
 <h2 align="left">My Skill Set:</h2>
 
