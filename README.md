@@ -13,7 +13,7 @@
 
 My work spans building large-scale systems, optimizing models for efficiency and accuracy, and deploying ML in production. 
 
-I’m passionate about Machine Learning Engineering and Backend Engineering, and I’m excited to utilize technology not only to solve complex problems at scale, but also to achieve the goal of making education more accessible and impactful.
+I’m passionate about Machine Learning Infrastructure, and I’m excited to utilize technology to solve complex problems at scale.
 
 ###
 
