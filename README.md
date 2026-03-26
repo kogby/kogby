@@ -85,10 +85,4 @@ I’m passionate about Machine Learning Infrastructure, and I’m excited to uti
 ## I'm Learning
 [![roadmap.sh](https://roadmap.sh/card/wide/6684fa0d1fed2580f15170c2?variant=light)](https://roadmap.sh)
 
-## Visitors
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kogby/count.svg?"  />
-</div>
-
 
