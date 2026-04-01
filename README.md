@@ -11,9 +11,21 @@
 </a>  
 </div>  
 
-My work spans building large-scale systems, optimizing models for efficiency and accuracy, and deploying ML in production. 
+I focus on translating ambiguous requirements into concrete architectures, providing large-scale, data-intensive system solutions for ML workloads.
 
-I’m passionate about Machine Learning Infrastructure, and I’m excited to utilize technology to solve complex problems at scale.
+
+
+My recent work spans inference serving, resource scheduling, distributed systems, and cloud infrastructure. Currently researching production-scale job scheduling with CMU Parallel Data Lab in collaboration with Uber.
+
+
+
+Graduating Dec 2026 | Open to AI/Cloud Infra, Solutions Architect, and MLE/SWE roles.
+
+
+
+Feel free to reach out! 
+
+chen.jerry.cj@gmail.com
 
 ###
 
