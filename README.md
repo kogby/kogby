@@ -18,7 +18,7 @@ My recent work spans inference serving, resource scheduling, distributed systems
 
 Past life: Backend Engineer & Data Scientist
 
-Graduating Dec 2026 | Open to AI/Cloud Infra, Solutions Architect, and MLE/SWE roles.
+Graduating Dec 2026 | Open to AI Infra or MLE roles.
 
 
 
