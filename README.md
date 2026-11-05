@@ -11,19 +11,13 @@
 </a>  
 </div>  
 
-I focus on translating ambiguous requirements into concrete architectures, providing large-scale, data-intensive system solutions for ML workloads.
+I focus on translating ambiguous requirements into concrete architectures, providing large-scale AI/ML system solutions.
 
-
-My recent work spans inference serving, resource scheduling, distributed systems, and cloud infrastructure. Currently researching production-scale job scheduling with CMU Parallel Data Lab in collaboration with Uber.
-
-Past life: Backend Engineer & Data Scientist
+My recent work spans LLM inference serving, distributed systems, orchestration & scheduling and cloud infrastructure. Currently researching production-scale job scheduling with CMU Parallel Data Lab in collaboration with Uber.
 
 Graduating Dec 2026 | Open to AI Engineer/Platform/Infra or MLE roles.
 
-
-
 Feel free to reach out! 
-
 chen.jerry.cj@gmail.com
 
 ###
