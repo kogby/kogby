@@ -13,7 +13,7 @@
 
 I focus on translating ambiguous requirements into concrete architectures, providing large-scale AI/ML system solutions.
 
-My recent work spans LLM inference serving, distributed systems, orchestration & scheduling and cloud infrastructure. Currently researching production-scale job scheduling with CMU Parallel Data Lab in collaboration with Uber.
+My recent work spans LLM inference serving, distributed systems, agentic systems, orchestration & scheduling and cloud infrastructure. Currently researching production-scale job scheduling with CMU Parallel Data Lab in collaboration with Uber.
 
 Graduating Dec 2026 | Open to AI Engineer/Platform/Infra or MLE roles.
 
